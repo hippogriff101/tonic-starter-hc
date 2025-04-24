@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: clean-tonic
+description: "This clean design is a starter for a simple website!"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
